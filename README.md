@@ -8,3 +8,4 @@
 - https://vjw-lp.digital.go.jp/en/
 - https://www.japan-wireless.com/en
 - https://www.japan-guide.com/e/e2359_003.html
+  - https://www.pasmo.co.jp/visitors/en/buy/   
