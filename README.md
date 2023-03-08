@@ -5,3 +5,4 @@
 
 ### Japan
 - https://vjw-lp.digital.go.jp/en/
+- https://www.japan-wireless.com/en
