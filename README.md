@@ -3,6 +3,7 @@
 ### Korea
 - https://www.k-eta.go.kr/portal/apply/index.do
 - https://www.trazy.com/experience/detail/portable-wifi-rental-korea
+- https://hanyangsummer.com/blog/how-to-navigate-your-way-through-seoul/
 
 ### Japan
 - https://vjw-lp.digital.go.jp/en/
